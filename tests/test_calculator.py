@@ -1,4 +1,5 @@
-'''My Calculator Test'''
+''' My Calculator Test '''
+
 from calculator import add, subtract
 
 def test_addition():
